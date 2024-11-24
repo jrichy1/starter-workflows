@@ -1,0 +1,10 @@
+version = 1
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
+name = "sql"
+
+[[transformers]]
+name = "clang-format"
